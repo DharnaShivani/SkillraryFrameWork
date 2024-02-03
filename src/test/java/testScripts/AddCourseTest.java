@@ -7,6 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
+//This user is able to  verifies if the Course is added or not
 
 public class AddCourseTest extends BaseClass {
    @Test
