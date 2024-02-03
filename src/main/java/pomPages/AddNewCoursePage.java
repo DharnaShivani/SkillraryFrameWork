@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import genericUtilities.WebDriverUtility;
+//This test verifies if user is able to add course
 
 public class AddNewCoursePage {
   
